@@ -4,59 +4,171 @@
       "a": {
         "title": "Ordinary Old and Middle English Words",
         "items": [
-          "aforesaid",
-          "behoof",
-          "bounden",
-          "foregoing",
-          "forswear",
-          "forthwith",
-          "henceforth",
-          "hereafter",
-          "hereby",
-          "herein",
-          "hereinabove",
-          "hereinafter",
-          "hereof",
-          "heretofore",
-          "herewith",
-          "hitherto",
-          "let (hindrance)",
-          "moreover",
-          "nowise",
-          "said (as an adjective)",
-          "saith",
-          "same (as a noun)",
-          "thence",
-          "thenceforth",
-          "thereabout",
-          "thereafter",
-          "thereat",
-          "therefor (as distinguished from therefore)",
-          "therefrom",
-          "therein",
-          "thereof",
-          "thereon",
-          "thereout",
-          "thereover",
-          "therethrough",
-          "thereto",
-          "theretofore",
-          "thereunder",
-          "therewith",
-          "to wit",
-          "whence",
-          "whensoever",
-          "whereas (to mean anything other than on the contrary)",
-          "whereat",
-          "whereby",
-          "wherefore",
-          "wherein",
-          "whereof",
-          "whereon",
-          "whereupon",
-          "whilst",
-          "witness (testimony: in witness of)",
-          "witnesseth"
+          {
+            "word": "aforesaid"
+          },
+          {
+            "word": "behoof"
+          },
+          {
+            "word": "bounden"
+          },
+          {
+            "word": "foregoing"
+          },
+          {
+            "word": "forswear"
+          },
+          {
+            "word": "forthwith"
+          },
+          {
+            "word": "henceforth"
+          },
+          {
+            "word": "hereafter"
+          },
+          {
+            "word": "hereby"
+          },
+          {
+            "word": "herein"
+          },
+          {
+            "word": "hereinabove"
+          },
+          {
+            "word": "hereinafter"
+          },
+          {
+            "word": "hereof"
+          },
+          {
+            "word": "heretofore"
+          },
+          {
+            "word": "herewith"
+          },
+          {
+            "word": "hitherto"
+          },
+          {
+            "word": "let",
+            "parenthetical": "hindrance"
+          },
+          {
+            "word": "moreover"
+          },
+          {
+            "word": "nowise"
+          },
+          {
+            "word": "said",
+            "parenthetical": "as an adjective"
+          },
+          {
+            "word": "saith"
+          },
+          {
+            "word": "same",
+            "parenthetical": "as a noun"
+          },
+          {
+            "word": "thence"
+          },
+          {
+            "word": "thenceforth"
+          },
+          {
+            "word": "thereabout"
+          },
+          {
+            "word": "thereafter"
+          },
+          {
+            "word": "thereat"
+          },
+          {
+            "word": "therefor",
+            "parenthetical": "as distinguished from therefore"
+          },
+          {
+            "word": "therefrom"
+          },
+          {
+            "word": "therein"
+          },
+          {
+            "word": "thereof"
+          },
+          {
+            "word": "thereon"
+          },
+          {
+            "word": "thereout"
+          },
+          {
+            "word": "thereover"
+          },
+          {
+            "word": "therethrough"
+          },
+          {
+            "word": "thereto"
+          },
+          {
+            "word": "theretofore"
+          },
+          {
+            "word": "thereunder"
+          },
+          {
+            "word": "therewith"
+          },
+          {
+            "word": "to wit"
+          },
+          {
+            "word": "whence"
+          },
+          {
+            "word": "whensoever"
+          },
+          {
+            "word": "whereas",
+            "parenthetical": "to mean anything other than on the contrary"
+          },
+          {
+            "word": "whereat"
+          },
+          {
+            "word": "whereby"
+          },
+          {
+            "word": "wherefore"
+          },
+          {
+            "word": "wherein"
+          },
+          {
+            "word": "whereof"
+          },
+          {
+            "word": "whereon"
+          },
+          {
+            "word": "whereupon"
+          },
+          {
+            "word": "whilst"
+          },
+          {
+            "word": "witness",
+            "parenthetical": "testimony: in witness of"
+          },
+          {
+            "word": "witnesseth"
+          }
         ]
       },
       "b": {
