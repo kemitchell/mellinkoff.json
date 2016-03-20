@@ -3,7 +3,7 @@
     "appendices": {
       "a": {
         "title": "Ordinary Old and Middle English Words",
-        "words": [
+        "items": [
           "aforesaid",
           "behoof",
           "bounden",
@@ -61,7 +61,7 @@
       },
       "b": {
         "title": "Coupled Synonyms",
-        "words": [
+        "items": [
           "acknowledge and confess",
           "act and deed",
           "annul and set aside",
@@ -130,7 +130,7 @@
       },
       "c": {
         "title": "Old Formalisms",
-        "words": [
+        "items": [
           "are held and firmly bound",
           "be it remembered",
           "before mme, a notary public",
