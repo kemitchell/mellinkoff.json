@@ -211,7 +211,7 @@
           "let or hindrance",
           "lot, tract, or parcel of land",
           "made and provided",
-          "made, ordinaed, constituted, and appointed",
+          "made, ordained, constituted, and appointed",
           "maintenance and upkeep",
           "meet and just",
           "mind and memory",
@@ -226,12 +226,12 @@
           "peace and quiet",
           "remise, release, and quitclaim",
           "rest, residue, and remainder",
-          "revoked, annuled, and held for nought",
+          "revoked, annulled, and held for nought",
           "save and except",
           "seised and possessed",
           "shun and avoid",
           "situate, lying, and being in",
-          "stand, remaind and be",
+          "stand, remain, and be",
           "truth and veracity",
           "void and of no effect",
           "void and of no force",
@@ -245,11 +245,11 @@
         "items": [
           "are held and firmly bound",
           "be it remembered",
-          "before mme, a notary public",
+          "before me, a notary public",
           "being first duly sworn, deposes and says",
           "by virtue of the authority vested in me",
           "came on for hearing",
-          "for sucvh other and further relief as to the court may seem meet and just",
+          "for such other and further relief as to the court may seem meet and just",
           "from the beginning of the world to the present",
           "further affiant sayeth not",
           "further deponent sayeth not",
@@ -279,7 +279,7 @@
           },
           {
             "phrase": "ad damnum",
-            "equivalent": " the statement of damanges (in a pleading)"
+            "equivalent": " the statement of damages (in a pleading)"
           },
           {
             "phrase": "arguendo",
@@ -319,7 +319,7 @@
           },
           {
             "phrase": "expressio unius est exclusio alterius",
-            "equivalent": "when something, but not everything of the same category, has been expressed, one may infer that omissions were deliverate; often rendered with inclusio as the first word"
+            "equivalent": "when something, but not everything of the same category, has been expressed, one may infer that omissions were deliberate; often rendered with inclusio as the first word"
           },
           {
             "phrase": "ferae naturae",
@@ -383,7 +383,7 @@
           },
           {
             "phrase": "mutatis mutandis",
-            "equivalent": "changing what ought to be chagned; the same except for a chagne of details"
+            "equivalent": "changing what ought to be changed; the same except for a change of details"
           },
           {
             "phrase": "nil",
@@ -391,7 +391,7 @@
           },
           {
             "phrase": "non obstante veredicto",
-            "equivalent": "notwithstanding the verdict (said of a judgment given by a acourt contrary to the verdict); abbreviated n.o.v."
+            "equivalent": "notwithstanding the verdict (said of a judgment given by a court contrary to the verdict); abbreviated n.o.v."
           },
           {
             "phrase": "nun pro tunc",
@@ -435,11 +435,11 @@
           },
           {
             "phrase": "tabula rasa",
-            "equivalent": "a clean slate; as, in \"We do not write upon a a tabula rasa,\" a cliché for: this ground has been worked over in other decisions."
+            "equivalent": "a clean slate; as, in \"We do not write upon a tabula rasa,\" a cliché for: this ground has been worked over in other decisions."
           },
           {
             "phrase": "termius a quo",
-            "equivalent": "the sarting point"
+            "equivalent": "the starting point"
           },
           {
             "phrase": "vel non",
