@@ -446,6 +446,110 @@
             "equivalent": "or not"
           }
         ]
+      },
+      "e": {
+        "title": "Law French, With English Equivalents",
+        "items": [
+          {
+            "item": "alien",
+            "parenthetical": "verb",
+            "equivalent": "to transfer (property)"
+          },
+          {
+            "item": "assigns",
+            "parenthetical": "plural noun",
+            "equivalent": "assignees (those to whom something has been assigned)"
+          },
+          {
+            "item": "cestui que trust",
+            "equivalent": "beneficiary of a trust"
+          },
+          {
+            "item": "chose in action",
+            "equivalent": "a thing in action; right to sue for money—sometimes for personal property; or, the instrument—e.g., a note—embodying the right"
+          },
+          {
+            "item": "close",
+            "parenthetical": "noun",
+            "equivalent": "a piece of land"
+          },
+          {
+            "item": "cy pres",
+            "equivalent": "as near as possible (to the intention fo e.g., a testator)"
+          },
+          {
+            "item": "demis",
+            "equivalent": "death; lease; convey; conveyance: the law French can mean any one of those"
+          },
+          {
+            "item": "de son tort",
+            "equivalent": "of his own wrong; as, a trustee de son tort; as part of a remedy, a fictitious trusteeship is imposed on someone who has acquired title to property by wrongdoing"
+          },
+          {
+            "item": "en ventre sa mere",
+            "equivalent": "in the womb; as, the rights of a child en ventre sa mere"
+          },
+          {
+            "item": "feme covert",
+            "equivalent": "married woman"
+          },
+          {
+            "item": "feme sole",
+            "equivalent": "a single woman (never marrtied, now unmarried, and sometimes—only separated)"
+          },
+          {
+            "item": "mesne",
+            "equivalent": "intermediate; as, mesne assignments"
+          },
+          {
+            "item": "messuage",
+            "parenthentical": "in other than historical usage",
+            "equivalent": "a dwelling and the buildings and land that go with it"
+          },
+          {
+            "item": "ordain",
+            "equivalent": "to appoint or order"
+          },
+          {
+            "item": "presents",
+            "parenthetical": "singular noun but requiring plural pronoun",
+            "equivalent": "this legal document; as, Know All Men by These Presents"
+          },
+          {
+            "item": "pur autre vie",
+            "equivalent": "for the life of another (said of the duration of an interest in property)"
+          },
+          {
+            "item": "remise",
+            "equivalent": "release, as, in the tautology remise, release, and forever quitclaim"
+          },
+          {
+            "item": "residue",
+            "equivalent": "all other property; as, in the tautology rest, residue, and remainder"
+          },
+          {
+            "item": "save",
+            "equivalent": "except"
+          },
+          {
+            "item": "seisin",
+            "parenthetical": "in other than hisotrical usage",
+            "equivalent": "possession; title; ownership: the law French can mean any one of those; also spelled seizen"
+          },
+          {
+            "item": "specialty",
+            "equivalent": "a sealed contract"
+          },
+          {
+            "item": "style",
+            "parenthetical": "noun",
+            "equivalent": "name"
+          },
+          {
+            "item": "suffer",
+            "equivalent": "permit"
+          }
+        ]
       }
     }
   }
