@@ -157,6 +157,183 @@
           "without merit",
           "witnesseth"
         ]
+      },
+      "d": {
+        "title": "Law Latin, with English Equivalents",
+        "items": [
+          {
+            "phrase": "ab initio",
+            "equivalent": "from the beginning"
+          },
+          {
+            "phrase": "ad damnum",
+            "equivalent": " the statement of damanges (in a pleading)"
+          },
+          {
+            "phrase": "arguendo",
+            "equivalent": "for the sake of argument (though not conceding the point)"
+          },
+          {
+            "phrase": "cessante ratione legis cessat ipse lex",
+            "equivalent": "when the reason for the rule ceases, the rule itself ceases"
+          },
+          {
+            "phrase": "cujus est solumn, ejus est usque ad coelum et ad inferos",
+            "equivalent": "who owns the land own it to the sky and the depths of the earth"
+          },
+          {
+            "phrase": "cum testmento annexo",
+            "equivalent": "with the will annexed; abbreviated c.t.a."
+          },
+          {
+            "phrase": "damnum",
+            "equivalent": "damage"
+          },
+          {
+            "phrase": "damnum absque injuria",
+            "equivalent": "damage without injury (damage, but not of the sort for which the law gives redress)"
+          },
+          {
+            "phrase": "de minimis non curate lex",
+            "equivalent": "the law does not concern itself with trifles; often shortened to de minimis"
+          },
+          {
+            "phrase": "ejusdem generis",
+            "equivalent": "of the same kind"
+          },
+          {
+            "phrase": "et al",
+            "equivalent": "and another (or, others)"
+          },
+          {
+            "phrase": "expressio unius est exclusio alterius",
+            "equivalent": "when something, but not everything of the same category, has been expressed, one may infer that omissions were deliverate; often rendered with inclusio as the first word"
+          },
+          {
+            "phrase": "ferae naturae",
+            "equivalent": "wild animals"
+          },
+          {
+            "phrase": "in custodia legis",
+            "equivalent": "in custody (of the law)"
+          },
+          {
+            "phrase": "in esse",
+            "equivalent": "in being"
+          },
+          {
+            "phrase": "in haec verba",
+            "equivalent": "in the very words"
+          },
+          {
+            "phrase": "in invitum",
+            "equivalent": "without consent"
+          },
+          {
+            "phrase": "in pari materia",
+            "equivalent": "on the same topic"
+          },
+          {
+            "phrase": "in propria persona",
+            "equivalent": "representing oneself (not by lawyer); abbreviated pro per"
+          },
+          {
+            "phrase": "in re",
+            "equivalent": "in regard to; often abbreviated re"
+          },
+          {
+            "phrase": "inclusion unius est exclusion alterius",
+            "equivalent": "same as expressio unius est exclusio alterius"
+          },
+          {
+            "phrase": "inter alia",
+            "equivalent": "among other things"
+          },
+          {
+            "phrase": "lex fori",
+            "equivalent": "the law of the forum (the law of the place where the court is)"
+          },
+          {
+            "phrase": "lex loci",
+            "equivalent": "the law of the place"
+          },
+          {
+            "phrase": "lex loci actus",
+            "equivalent": "the law of the act"
+          },
+          {
+            "phrase": "lex loci contractus",
+            "equivalent": "the law of the contract"
+          },
+          {
+            "phrase": "lex loci rei sitae",
+            "equivalent": "the law of where the thing is located"
+          },
+          {
+            "phrase": "mutatis mutandis",
+            "equivalent": "changing what ought to be chagned; the same except for a chagne of details"
+          },
+          {
+            "phrase": "nil",
+            "equivalent": "nothing"
+          },
+          {
+            "phrase": "non obstante veredicto",
+            "equivalent": "notwithstanding the verdict (said of a judgment given by a acourt contrary to the verdict); abbreviated n.o.v."
+          },
+          {
+            "phrase": "nun pro tunc",
+            "equivalent": "now for then (e.g., backdating)"
+          },
+          {
+            "phrase": "per capita",
+            "equivalent": "per person (said of division of property by the number of individuals)"
+          },
+          {
+            "phrase": "per curiam",
+            "equivalent": "by the court (said of an opinion or order not attributed to a specific judge)"
+          },
+          {
+            "phrase": "per stirpes",
+            "equivalent": "by the stocks (said of division of property by representation of ancestors)"
+          },
+          {
+            "phrase": "pro se",
+            "equivalent": "same as in propria persona"
+          },
+          {
+            "phrase": "qui facit per alium facit per se",
+            "equivalent": "who acts through another acts himself (the principal is liable for the acts of the agent)"
+          },
+          {
+            "phrase": "respondeat superior",
+            "equivalent": "let the superior anser (the principal is liable for the acts of the agent); another was of saying qui facit per alium facit per se"
+          },
+          {
+            "phrase": "sub judice",
+            "equivalent": "under consideration by a court"
+          },
+          {
+            "phrase": "sui generis",
+            "equivalent": "unique"
+          },
+          {
+            "phrase": "sui guris",
+            "equivalent": "having legal capacity and responsibility"
+          },
+          {
+            "phrase": "tabula rasa",
+            "equivalent": "a clean slate; as, in \"We do not write upon a a tabula rasa,\" a cliché for: this ground has been worked over in other decisions."
+          },
+          {
+            "phrase": "termius a quo",
+            "equivalent": "the sarting point"
+          },
+          {
+            "phrase": "vel non",
+            "equivalent": "or not"
+          }
+        ]
       }
     }
   }
