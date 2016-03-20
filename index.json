@@ -5,169 +5,169 @@
         "title": "Ordinary Old and Middle English Words",
         "items": [
           {
-            "word": "aforesaid"
+            "item": "aforesaid"
           },
           {
-            "word": "behoof"
+            "item": "behoof"
           },
           {
-            "word": "bounden"
+            "item": "bounden"
           },
           {
-            "word": "foregoing"
+            "item": "foregoing"
           },
           {
-            "word": "forswear"
+            "item": "forswear"
           },
           {
-            "word": "forthwith"
+            "item": "forthwith"
           },
           {
-            "word": "henceforth"
+            "item": "henceforth"
           },
           {
-            "word": "hereafter"
+            "item": "hereafter"
           },
           {
-            "word": "hereby"
+            "item": "hereby"
           },
           {
-            "word": "herein"
+            "item": "herein"
           },
           {
-            "word": "hereinabove"
+            "item": "hereinabove"
           },
           {
-            "word": "hereinafter"
+            "item": "hereinafter"
           },
           {
-            "word": "hereof"
+            "item": "hereof"
           },
           {
-            "word": "heretofore"
+            "item": "heretofore"
           },
           {
-            "word": "herewith"
+            "item": "herewith"
           },
           {
-            "word": "hitherto"
+            "item": "hitherto"
           },
           {
-            "word": "let",
+            "item": "let",
             "parenthetical": "hindrance"
           },
           {
-            "word": "moreover"
+            "item": "moreover"
           },
           {
-            "word": "nowise"
+            "item": "nowise"
           },
           {
-            "word": "said",
+            "item": "said",
             "parenthetical": "as an adjective"
           },
           {
-            "word": "saith"
+            "item": "saith"
           },
           {
-            "word": "same",
+            "item": "same",
             "parenthetical": "as a noun"
           },
           {
-            "word": "thence"
+            "item": "thence"
           },
           {
-            "word": "thenceforth"
+            "item": "thenceforth"
           },
           {
-            "word": "thereabout"
+            "item": "thereabout"
           },
           {
-            "word": "thereafter"
+            "item": "thereafter"
           },
           {
-            "word": "thereat"
+            "item": "thereat"
           },
           {
-            "word": "therefor",
+            "item": "therefor",
             "parenthetical": "as distinguished from therefore"
           },
           {
-            "word": "therefrom"
+            "item": "therefrom"
           },
           {
-            "word": "therein"
+            "item": "therein"
           },
           {
-            "word": "thereof"
+            "item": "thereof"
           },
           {
-            "word": "thereon"
+            "item": "thereon"
           },
           {
-            "word": "thereout"
+            "item": "thereout"
           },
           {
-            "word": "thereover"
+            "item": "thereover"
           },
           {
-            "word": "therethrough"
+            "item": "therethrough"
           },
           {
-            "word": "thereto"
+            "item": "thereto"
           },
           {
-            "word": "theretofore"
+            "item": "theretofore"
           },
           {
-            "word": "thereunder"
+            "item": "thereunder"
           },
           {
-            "word": "therewith"
+            "item": "therewith"
           },
           {
-            "word": "to wit"
+            "item": "to wit"
           },
           {
-            "word": "whence"
+            "item": "whence"
           },
           {
-            "word": "whensoever"
+            "item": "whensoever"
           },
           {
-            "word": "whereas",
+            "item": "whereas",
             "parenthetical": "to mean anything other than on the contrary"
           },
           {
-            "word": "whereat"
+            "item": "whereat"
           },
           {
-            "word": "whereby"
+            "item": "whereby"
           },
           {
-            "word": "wherefore"
+            "item": "wherefore"
           },
           {
-            "word": "wherein"
+            "item": "wherein"
           },
           {
-            "word": "whereof"
+            "item": "whereof"
           },
           {
-            "word": "whereon"
+            "item": "whereon"
           },
           {
-            "word": "whereupon"
+            "item": "whereupon"
           },
           {
-            "word": "whilst"
+            "item": "whilst"
           },
           {
-            "word": "witness",
+            "item": "witness",
             "parenthetical": "testimony: in witness of"
           },
           {
-            "word": "witnesseth"
+            "item": "witnesseth"
           }
         ]
       },
@@ -274,175 +274,175 @@
         "title": "Law Latin, with English Equivalents",
         "items": [
           {
-            "phrase": "ab initio",
+            "item": "ab initio",
             "equivalent": "from the beginning"
           },
           {
-            "phrase": "ad damnum",
+            "item": "ad damnum",
             "equivalent": " the statement of damages (in a pleading)"
           },
           {
-            "phrase": "arguendo",
+            "item": "arguendo",
             "equivalent": "for the sake of argument (though not conceding the point)"
           },
           {
-            "phrase": "cessante ratione legis cessat ipse lex",
+            "item": "cessante ratione legis cessat ipse lex",
             "equivalent": "when the reason for the rule ceases, the rule itself ceases"
           },
           {
-            "phrase": "cujus est solumn, ejus est usque ad coelum et ad inferos",
+            "item": "cujus est solumn, ejus est usque ad coelum et ad inferos",
             "equivalent": "who owns the land own it to the sky and the depths of the earth"
           },
           {
-            "phrase": "cum testmento annexo",
+            "item": "cum testmento annexo",
             "equivalent": "with the will annexed; abbreviated c.t.a."
           },
           {
-            "phrase": "damnum",
+            "item": "damnum",
             "equivalent": "damage"
           },
           {
-            "phrase": "damnum absque injuria",
+            "item": "damnum absque injuria",
             "equivalent": "damage without injury (damage, but not of the sort for which the law gives redress)"
           },
           {
-            "phrase": "de minimis non curate lex",
+            "item": "de minimis non curate lex",
             "equivalent": "the law does not concern itself with trifles; often shortened to de minimis"
           },
           {
-            "phrase": "ejusdem generis",
+            "item": "ejusdem generis",
             "equivalent": "of the same kind"
           },
           {
-            "phrase": "et al",
+            "item": "et al",
             "equivalent": "and another (or, others)"
           },
           {
-            "phrase": "expressio unius est exclusio alterius",
+            "item": "expressio unius est exclusio alterius",
             "equivalent": "when something, but not everything of the same category, has been expressed, one may infer that omissions were deliberate; often rendered with inclusio as the first word"
           },
           {
-            "phrase": "ferae naturae",
+            "item": "ferae naturae",
             "equivalent": "wild animals"
           },
           {
-            "phrase": "in custodia legis",
+            "item": "in custodia legis",
             "equivalent": "in custody (of the law)"
           },
           {
-            "phrase": "in esse",
+            "item": "in esse",
             "equivalent": "in being"
           },
           {
-            "phrase": "in haec verba",
+            "item": "in haec verba",
             "equivalent": "in the very words"
           },
           {
-            "phrase": "in invitum",
+            "item": "in invitum",
             "equivalent": "without consent"
           },
           {
-            "phrase": "in pari materia",
+            "item": "in pari materia",
             "equivalent": "on the same topic"
           },
           {
-            "phrase": "in propria persona",
+            "item": "in propria persona",
             "equivalent": "representing oneself (not by lawyer); abbreviated pro per"
           },
           {
-            "phrase": "in re",
+            "item": "in re",
             "equivalent": "in regard to; often abbreviated re"
           },
           {
-            "phrase": "inclusion unius est exclusion alterius",
+            "item": "inclusion unius est exclusion alterius",
             "equivalent": "same as expressio unius est exclusio alterius"
           },
           {
-            "phrase": "inter alia",
+            "item": "inter alia",
             "equivalent": "among other things"
           },
           {
-            "phrase": "lex fori",
+            "item": "lex fori",
             "equivalent": "the law of the forum (the law of the place where the court is)"
           },
           {
-            "phrase": "lex loci",
+            "item": "lex loci",
             "equivalent": "the law of the place"
           },
           {
-            "phrase": "lex loci actus",
+            "item": "lex loci actus",
             "equivalent": "the law of the act"
           },
           {
-            "phrase": "lex loci contractus",
+            "item": "lex loci contractus",
             "equivalent": "the law of the contract"
           },
           {
-            "phrase": "lex loci rei sitae",
+            "item": "lex loci rei sitae",
             "equivalent": "the law of where the thing is located"
           },
           {
-            "phrase": "mutatis mutandis",
+            "item": "mutatis mutandis",
             "equivalent": "changing what ought to be changed; the same except for a change of details"
           },
           {
-            "phrase": "nil",
+            "item": "nil",
             "equivalent": "nothing"
           },
           {
-            "phrase": "non obstante veredicto",
+            "item": "non obstante veredicto",
             "equivalent": "notwithstanding the verdict (said of a judgment given by a court contrary to the verdict); abbreviated n.o.v."
           },
           {
-            "phrase": "nun pro tunc",
+            "item": "nun pro tunc",
             "equivalent": "now for then (e.g., backdating)"
           },
           {
-            "phrase": "per capita",
+            "item": "per capita",
             "equivalent": "per person (said of division of property by the number of individuals)"
           },
           {
-            "phrase": "per curiam",
+            "item": "per curiam",
             "equivalent": "by the court (said of an opinion or order not attributed to a specific judge)"
           },
           {
-            "phrase": "per stirpes",
+            "item": "per stirpes",
             "equivalent": "by the stocks (said of division of property by representation of ancestors)"
           },
           {
-            "phrase": "pro se",
+            "item": "pro se",
             "equivalent": "same as in propria persona"
           },
           {
-            "phrase": "qui facit per alium facit per se",
+            "item": "qui facit per alium facit per se",
             "equivalent": "who acts through another acts himself (the principal is liable for the acts of the agent)"
           },
           {
-            "phrase": "respondeat superior",
+            "item": "respondeat superior",
             "equivalent": "let the superior anser (the principal is liable for the acts of the agent); another was of saying qui facit per alium facit per se"
           },
           {
-            "phrase": "sub judice",
+            "item": "sub judice",
             "equivalent": "under consideration by a court"
           },
           {
-            "phrase": "sui generis",
+            "item": "sui generis",
             "equivalent": "unique"
           },
           {
-            "phrase": "sui guris",
+            "item": "sui guris",
             "equivalent": "having legal capacity and responsibility"
           },
           {
-            "phrase": "tabula rasa",
+            "item": "tabula rasa",
             "equivalent": "a clean slate; as, in “We do not write upon a tabula rasa,” a cliché for: this ground has been worked over in other decisions."
           },
           {
-            "phrase": "termius a quo",
+            "item": "termius a quo",
             "equivalent": "the starting point"
           },
           {
-            "phrase": "vel non",
+            "item": "vel non",
             "equivalent": "or not"
           }
         ]
