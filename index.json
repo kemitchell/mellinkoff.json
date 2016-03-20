@@ -706,6 +706,107 @@
           "worthless"
         ]
       }
+    },
+    "g": {
+      "title": "Legal Argot, with Ordinary English Equivalents",
+      "items": [
+        {
+          "item": "alter ego",
+          "explanation": "a sham corporation; a corporation in ma,e only used by the owners of the enterprise for a fraudulent purpose"
+        },
+        {
+          "item": "attractive nuisance",
+          "explanation": "a dangerous condition of land or buildings likely to attract children at play"
+        },
+        {
+          "item": "Blackacre",
+          "explanation": "a fictitious piece of real estate; as \"Suppose, A owns Blackacre…\""
+        },
+        {
+          "item": "case at bar",
+          "explanation": "this case (now being tried)"
+        },
+        {
+          "item": "case at bench",
+          "explanation": "this case (now being tried); sometimes said to apply only to a case on appeal"
+        },
+        {
+          "item": "clean hands",
+          "explanation": "free of wrongdoing that would cause a court to deny equitable relief, as in the maxim: \"He who comes into a court of equity must come with clean hands.\""
+        },
+        {
+          "item": "cloud on title",
+          "explanation": "a defect in the record title to property"
+        },
+        {
+          "item": "contract of adhesion",
+          "explanation": "a take-it-or-leave-it contract, with one side having all the bargaining power"
+        },
+        {
+          "item": "court below",
+          "explanation": "the court that is lower in the hierarchy of courts and previously dealt with this case"
+        },
+        {
+          "item": "exhaust the security",
+          "explanation": "first try to get paid out of the debtor's security (before collecting from the debtor personally)"
+        },
+        {
+          "item": "four corners of the instrument",
+          "explanation": "within the confines of the writing"
+        },
+        {
+          "item": "horse case",
+          "explanation": "an earlier case just like this one"
+        },
+        {
+          "item": "inferior court",
+          "explanation": "a court lower in the hierarchy of courts"
+        },
+        {
+          "item": "John Doe",
+          "explanation": "a fictitious person, abbreviated Doe (see Mellinkoff, \"Who Is 'John Doe'\"? 12 UCLA Law Review 79, 1964"
+        },
+        {
+          "item": "matter",
+          "explanation": "a something on which attention is focused: a case, a proceeding, a problem, a claim, a point of law, etc., as \"There is a matter I want to discuss,\" \"We have a matter pending in Department 1.\""
+        },
+        {
+          "item": "negative pregnant",
+          "explanation": "a denial in the very words of the charge, implying an admission of the substance of the charge. E.g., if a date is of no consequence to the charge \"You hit me on January 10,\" the negative pregnant denial is \"I deny that I hit you on January 10.\""
+        },
+        {
+          "item": "off the record",
+          "explanation": "not intended to be included in the reporter's transcript, even though the statement is made in court or in a judge's chambers"
+        },
+        {
+          "item": "on all fours",
+          "explanation": "same as a horse case"
+        },
+        {
+          "item": "pierce the corporate veil",
+          "explanation": "disregard the sham corporation (see alter ego) and hold the owners of the enterprise liable for what otherwise would be only a corporate obligation"
+        },
+        {
+          "item": "private attorney general",
+          "explanation": "one who sues to right a wrong and can claim attorney fees for services in benefiting the public"
+        },
+        {
+          "item": "reasonable man",
+          "explanation": "the hypothetical creature whose hypothetical action and lethargy are used to gauge the reasonableness of conduct of real people, as \"What would a reasonable man have done under those circumstances?\""
+        },
+        {
+          "item": "res ipsa loquitur",
+          "explanation": "the thing speaks for itself; a Latin way of saying that usually it doesn't happen unless someone is negligent (applied in varying ways to affect the proof of negligence); as an adjective, often shortened to res ipsa (a res ipsa case) and sometimes to a slangier resipsy; abbreviated R.I.L."
+        },
+        {
+          "item": "sidebar",
+          "explanation": "a conference between lawyers and the judge at the bench but outside the hearing of others in court, often off the record; also, something said at such a conference"
+        },
+        {
+          "item": "Whiteacre",
+          "explanation": "a second fictitious piece of real estate, in a hypothetical proposition that has already used Blackacre"
+        }
+      ]
     }
   }
 }
