@@ -807,6 +807,41 @@
           "explanation": "a second fictitious piece of real estate, in a hypothetical proposition that has already used Blackacre"
         }
       ]
+    },
+    "h": {
+      "title": "Legal Terms of Art, with Short Explanations in Ordinary English",
+      "items": [
+        "agency",
+        "agent",
+        "amicus brief",
+        "amicus curiae",
+        "appoint",
+        "cert",
+        "certification",
+        "certiorari",
+        "demur",
+        "demurrer",
+        "double jeopardy",
+        "drawee bank",
+        "estate in fee simple",
+        "ex parte",
+        "fee",
+        "fee simple",
+        "holding",
+        "in personam",
+        "in rem",
+        "intestate",
+        "jeopardy",
+        "jurisdiction in personam",
+        "jurisdiction in rem",
+        "laches",
+        "mandamus",
+        "power of appointment",
+        "principal",
+        "prohibition",
+        "statute of limitations",
+        "supersedeas"
+      ]
     }
   }
 }
